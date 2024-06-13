@@ -1,0 +1,51 @@
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.exe
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.deps.json
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.runtimeconfig.json
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.pdb
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\Interop.ADODB.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.vbproj.ResolveComReference.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_admin.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_agendamentos_admin.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_cadastro.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_cliente1.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_info_usuário.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_login.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_produtos.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.Resources.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.vbproj.GenerateResource.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.GeneratedMSBuildEditorConfig.editorconfig
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.AssemblyInfoInputs.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.AssemblyInfo.vb
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.vbproj.CoreCompileInputs.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\refint\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.pdb
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.genruntimeconfig.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Release\net8.0-windows\ref\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.exe
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.deps.json
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.runtimeconfig.json
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Release\net8.0-windows\StacheStudio.pdb
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\Interop.ADODB.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.vbproj.ResolveComReference.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_admin.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_agendamentos_admin.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_cadastro.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_cliente1.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_info_usuário.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_login.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_produtos.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.Resources.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.vbproj.GenerateResource.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.AssemblyInfoInputs.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.AssemblyInfo.vb
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.vbproj.CoreCompileInputs.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\refint\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.pdb
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.genruntimeconfig.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\ref\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Release\net8.0-windows\StacheStudio.form_info_ss.resources

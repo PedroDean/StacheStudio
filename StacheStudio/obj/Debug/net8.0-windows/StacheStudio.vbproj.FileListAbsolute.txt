@@ -1,0 +1,125 @@
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cadastro.resources
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_login.resources
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfo.vb
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.exe
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.deps.json
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.runtimeconfig.json
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.dll
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.pdb
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.dll
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\refint\StacheStudio.dll
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.pdb
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.genruntimeconfig.cache
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\ref\StacheStudio.dll
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_admin.resources
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_agendamento.resources
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_produtos.resources
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Lucas\Documents\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.ResolveComReference.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.exe
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.deps.json
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.runtimeconfig.json
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.pdb
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\Interop.ADODB.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.ResolveComReference.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_admin.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cadastro.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_login.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_produtos.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.GenerateResource.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.GeneratedMSBuildEditorConfig.editorconfig
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfoInputs.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfo.vb
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.CoreCompileInputs.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\refint\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.pdb
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.genruntimeconfig.cache
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\ref\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cliente1.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.Resources.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.exe
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.deps.json
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.runtimeconfig.json
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.dll
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.pdb
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.ResolveComReference.cache
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_admin.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cadastro.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cliente1.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_login.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_produtos.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.Resources.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.GenerateResource.cache
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfoInputs.cache
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfo.vb
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.CoreCompileInputs.cache
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.dll
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\refint\StacheStudio.dll
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.pdb
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.genruntimeconfig.cache
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\ref\StacheStudio.dll
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_info_usuário.resources
+J:\Estudos\SistemaDeInformação\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_agendamentos_admin.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.exe
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.deps.json
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.runtimeconfig.json
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.dll
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.pdb
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.ResolveComReference.cache
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_admin.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_agendamento.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_agendamentos_admin.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cadastro.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cliente1.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_info_usuário.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_login.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_produtos.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.Resources.resources
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.GenerateResource.cache
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfoInputs.cache
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfo.vb
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.CoreCompileInputs.cache
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.dll
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\refint\StacheStudio.dll
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.pdb
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.genruntimeconfig.cache
+C:\Users\familia\Documents\Barbearia\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\ref\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.exe
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.deps.json
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.runtimeconfig.json
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\bin\Debug\net8.0-windows\StacheStudio.pdb
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\Interop.ADODB.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.ResolveComReference.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_admin.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_agendamentos_admin.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cadastro.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_cliente1.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_info_usuário.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_login.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_produtos.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.Resources.resources
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.GenerateResource.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfoInputs.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.AssemblyInfo.vb
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.vbproj.CoreCompileInputs.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\refint\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.pdb
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.genruntimeconfig.cache
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\ref\StacheStudio.dll
+D:\StacheStudio_beta1.0 (1)\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_info_ss.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_agendamentos_admin.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_info_ss.resources
+C:\Users\deanp\Desktop\StacheStudio\StacheStudio\obj\Debug\net8.0-windows\StacheStudio.form_info_usuário.resources
